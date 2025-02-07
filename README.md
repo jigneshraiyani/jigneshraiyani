@@ -1,6 +1,6 @@
 # Hi there, I'm Jignesh Raiyani..!! 👋
 
-I'm a Mobility Lead | Principal Eng. | Mobile Architect | Tech Manager passionate for creating innovative and user-friendly applications for Android and iOS platforms. I enjoy turning ideas into sleek, functional, and scalable mobile experiences. 🚀
+I'm a  Principal Eng. | Tech Manager | Mobility Lead | Architect |  passionate for creating innovative and user-friendly applications for frontend platforms. I enjoy turning ideas into sleek, functional, and scalable experiences. 🚀
 
 ---
 
